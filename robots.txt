@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://blroi.github.io/Nzj/sitemap.Nzj.gz
